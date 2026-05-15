@@ -10,7 +10,7 @@ Automatically monitor EC2 CPU utilization and stop idle instances to reduce AWS 
 
 AWS Lambda, Amazon EventBridge Scheduler, Amazon CloudWatch, Amazon EC2, and IAM.
 
-Output :-
+## Output :-
 
 Lambda Function :-
 ![image](https://github.com/user-attachments/assets/f8fb386f-d972-4492-a703-93068ea2f441)
