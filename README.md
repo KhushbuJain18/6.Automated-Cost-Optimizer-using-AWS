@@ -2,11 +2,11 @@
 
 
 
-Purpose
+ ## Purpose
 
 Automatically monitor EC2 CPU utilization and stop idle instances to reduce AWS cloud costs.
 
-AWS Services Used
+## AWS Services Used
 
 AWS Lambda, Amazon EventBridge Scheduler, Amazon CloudWatch, Amazon EC2, and IAM.
 
